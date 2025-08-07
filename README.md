@@ -1,4 +1,4 @@
-# Trying outgpt-oss
+# Trying out gpt-oss
 
 > Run a simple voice assistant with Python that uses gpt-oss for the LLM.
 
